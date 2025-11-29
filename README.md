@@ -43,7 +43,7 @@ To create a 3D model from given orthographic projection.
 
 ## OUTPUT:
 
-<img width="1269" height="889" alt="Screenshot 2025-10-07 085132" src="https://github.com/user-attachments/assets/3f8ab0fc-e3e7-4da6-82d1-f8cee33e039f" /
+<img width="1269" height="889" alt="Screenshot 2025-10-07 085132" src="https://github.com/user-attachments/assets/3f8ab0fc-e3e7-4da6-82d1-f8cee33e039f" / >
 ## NAME : BALAJI 
 ## REG NO:212224040042
 
